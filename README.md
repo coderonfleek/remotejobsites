@@ -1,2 +1,14 @@
-# remotejobsites
-A Curated List of Remote Job Sites
+# A Curated List of Remote Job Sites
+- Just Remote: https://justremote.co/
+- Remote OK: https://remoteok.com/
+- Remotely: https://tryremotely.com/
+- WeWorkRemotely: https://weworkremotely.com/
+- RemoteCo: https://remote.co/
+- Working Nomads: https://www.workingnomads.com/jobs
+- Remotive: https://remotive.com/
+- Pangian: https://pangian.com/
+- Jobspresso: https://jobspresso.co/
+- FlexJobs: https://www.flexjobs.com/
+- Gigster: https://gigster.com/
+- Wellfound: https://wellfound.com/
+- Toptal: https://www.toptal.com/ 
